@@ -1,4 +1,6 @@
-
+<a href="https://github.com/Raheemrana/Raheemrana">
+    <img src="https://komarev.com/ghpvc/?username=RaheemRana" alt="page views" />
+  </a>
 # Hi, I'm Abdul Raheem Rana! 👋 (he/him)
 
 I'm a problem solver in the world of tech 🚀, also known as a 'Software Engineer'. I'm deeply passionate about technology and love learning new things. With over 4 years of experience, I've dived into various tech areas - from making smart computer programs using Python to building websites with React, Node.js, Angular, FastAPI, and .NET. Recently, I became a certified AWS Cloud Practitioner, showing my interest in cloud computing. I'm all about finding solutions and making cool things with technology!
