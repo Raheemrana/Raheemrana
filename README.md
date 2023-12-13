@@ -32,9 +32,6 @@ Driven by the belief that technology can revolutionize industries and improve li
 
 😄 Pronouns... `He/Him/Lion`
 
-⚡️ Fun fact... `I used ChatGPT here 😁 but prompt was mine and did modifications`
-
-
 ## 🛠 Skills
 + FrontEnd
     + HTML/CSS/Bootstrap, MaterialUI
