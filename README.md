@@ -1,16 +1,3 @@
-<h1 align="center">Hi 👋, I'm Muhammad Sameer Farooq</h1>
-<p align="left">         
-                          
-   <a href="https://github.com/msameerfarooq/msameerfarooq">
-    <img src="https://komarev.com/ghpvc/?username=msameerfarooq" alt="page views" />
-  </a>
-  <a href="https://github.com/msameerfarooq">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/msameerfarooq?color=green&logo=github">
-  </a>
-  <a href="https://stackoverflow.com/users/11952884/msameerfarooq?tab=profile">
-   <img alt="Stackoverflow" src="https://img.shields.io/stackexchange/stackoverflow/r/11952884?style=social">
-  </a>
-</p>
 
 # Hi, I'm Abdul Raheem Rana! 👋 (he/him)
 
@@ -45,7 +32,7 @@ Driven by the belief that technology can revolutionize industries and improve li
 
 😄 Pronouns... `He/Him/Lion`
 
-⚡️ Fun fact... `I `
+⚡️ Fun fact... `I used ChatGPT here 😁 but prompt was mine and did modifications`
 
 
 ## 🛠 Skills
