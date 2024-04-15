@@ -1,5 +1,5 @@
 
-# Hi, I'm Abdul Raheem Rana! 👋 (he/him)
+# Hi, I'm Abdul Raheem Rana! 👋
 
 I'm a problem solver in the world of tech 🚀, also known as a `Software Engineer`. I'm deeply passionate about technology and love learning new things. With over 4 years of experience, I've dived into various tech areas - from making smart computer programs using Python to building websites with React, Node.js, Angular, FastAPI, and .NET. Recently, I became a certified AWS Cloud Practitioner, showing my interest in cloud computing. I'm all about finding solutions and making cool things with technology!
 
@@ -34,7 +34,7 @@ Driven by the belief that technology can revolutionize industries and improve li
 
 ## 🛠 Skills
 + FrontEnd
-    + HTML/CSS/Bootstrap, MaterialUI
+    + HTML/CSS/Bootstrap, MaterialUI, Tailwind
     + JavaScript/TypeScript
     + React, Redux
     + Angular
@@ -44,13 +44,14 @@ Driven by the belief that technology can revolutionize industries and improve li
     + .Net 7
     + FastAPI
     + Django
+    + NextJS
     + Elastic Search
     + Redis
 
 + Others
     + DevOPs CI/CD (recently made pipeline for microservices in GitLab)
-    + AWS EC2
-    + AWS ECS 
-    + AWS AppSync
-    + AWS CloudWatch
-    + AWS Fargate
+    + Scripts, Tooling
+    + Bots, Automation
+    + AWS (EC2, ECS, AppSync, CloudWatch, Fargate)
+ 
+## No fear! Speak your mind
